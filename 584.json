@@ -1,0 +1,38 @@
+{
+  "name": "Trippy Sol Tape #624",
+  "symbol": "TST",
+  "description": "📼777 Unique handmade Trippy Sol Tapes looking for radio on Solana Blockchain!📼.",
+  "seller_fee_basis_points": 770,
+  "image": "https://i.postimg.cc/yYVLQDSS/584-transformed.png",
+  "external_url": "",
+  "collection": { "name": "Trippy Sol Tapes", "family": "LaunchMyNFT" },
+  "attributes": [
+    { "trait_type": "Background", "value": "Gradient - 17" },
+    { "trait_type": "Base", "value": "LSD - 3" },
+    { "trait_type": "Frame", "value": "Gradient - 4" },
+    { "trait_type": "Supply Reel", "value": "Trippy Reel - 2" },
+    { "trait_type": "Tape", "value": "Beige" },
+    { "trait_type": "Accessory", "value": "Straight Mushroom - 2" },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 26,
+      "display_type": "number",
+      "max_value": 777
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.postimg.cc/yYVLQDSS/584-transformed.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BxzX6e9pK5RyB6gXyacZSbUuJAfmJo8Cz7zFas5E8ydh",
+        "share": 100
+      }
+    ]
+  }
+}
